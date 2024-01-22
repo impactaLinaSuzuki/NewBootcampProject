@@ -1,0 +1,12 @@
+# .gitignore dentro da pasta "backend/"
+
+# Ignorar arquivos de compilação e saída
+bin/
+obj/
+.vs/
+
+# Ignorar arquivos de configuração do Visual Studio
+.vscode/
+*.user
+*.suo
+*.sln

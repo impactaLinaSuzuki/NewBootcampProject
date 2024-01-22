@@ -1,0 +1,4 @@
+p > img  {
+	display: block; /* Certifique-se de que a imagem seja um bloco para definir margens automaticamente */
+	margin: 0 auto; /* Centraliza horizontalmente */
+}

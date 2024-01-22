@@ -1,0 +1,14 @@
+# .gitignore dentro da pasta "frontend/"
+
+# Ignorar a pasta de build
+build/
+dist/
+
+# Ignorar módulos node_modules
+node_modules/
+
+# Ignorar arquivos de configuração específicos do desenvolvedor
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
